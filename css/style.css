@@ -18,10 +18,10 @@
 }
 
 .darktheme {
-    --accent: #186efd60;
-    --bg: #1e1f21;
-    --sbg: #2c2d31;
-    --fg: #d8dee9;
+    --accent: #bd93f9;
+    --bg: #282a36;
+    --sbg: #44475a;
+    --fg: #f8f8f2;
 }
 
 * {

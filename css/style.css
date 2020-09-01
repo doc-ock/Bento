@@ -19,6 +19,7 @@
 
 .darktheme {
     --accent: #bd93f9;
+    --accent2: #6272a4;
     --bg: #282a36;
     --sbg: #44475a;
     --fg: #f8f8f2;
@@ -158,7 +159,7 @@ body {
 
 #greetings {
     font-size: var(--fses);
-    color: var(--fg);
+    color: var(--accent2);
 }
 @media only screen and (max-width: 68.75em) {
     #greetings {

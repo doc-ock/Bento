@@ -5,8 +5,8 @@ var Hr = today.getHours();
 var name = 'Quantum';
 var lateTxt = 'Go to Sleep! ';
 var morningTxt = 'Good morning! ';
-var afterTxt = 'Good afternoon ';
-var evenTxt = 'Good evening ';
+var afterTxt = 'Good afternoon, ';
+var evenTxt = 'Good evening, ';
 
 if (Hr >= 0 && Hr < 6) {
     document.getElementById('greetings').innerText = lateTxt + name;
